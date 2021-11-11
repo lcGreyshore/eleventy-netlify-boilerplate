@@ -1,10 +1,11 @@
 ---
 layout: layouts/blog.njk
-title: Blog
+title: Resources
 metaDescription: A sample Blog page listing various posts and authors.
 date: 2017-01-01
-permalink: /blog/index.html
+permalink: /resources/index.html
 eleventyNavigation:
-  key: Blog
+  key: Resources
   order: 2
 ---
+testing
